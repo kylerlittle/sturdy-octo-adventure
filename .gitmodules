@@ -1,0 +1,3 @@
+[submodule "themes/lx"]
+	path = themes/lx
+	url = https://github.com/kylerlittle/hexo-theme-lx.git
