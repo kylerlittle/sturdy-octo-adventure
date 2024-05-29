@@ -24,7 +24,8 @@ Find the sum of all the numbers that can be written as the sum of fifth powers o
 The crux of this problem is noticing the fact that if you have a sum of digits, take for example
 the number 1634 in the example, the digits that generated that sum have many permutations.
 {% katex '{ "displayMode": true }' %}
-(1^4) + (6^4) + (3^4) + (4^4) =  (6^4) + (3^4) + (4^4) + (1^4)
+(1^4) + (6^4) + (3^4) + (4^4) = \\
+(6^4) + (3^4) + (4^4) + (1^4)
 {% endkatex %}
 but each permutation results in a different number, despite the sums being the same
 {% katex '{ "displayMode": true }' %}
@@ -40,7 +41,7 @@ The reason it's desirable to solve the problem this way is that it's computation
 very efficient. We solve the problem pretty much exclusively with sums rather than
 multiplication/exponentials. Here is a look at code that solves this problem:
 
-{% codeblock 30.py lang:python https://github.com/kylerlittle/project-euler/blob/main/30/30.py %}
+{% codeblock 30.py lang:python https://github.com/kylerlittle/project-euler/blob/main/30/30.py line_number:false %}
 from typing import List
 
 def getDigits(n: int) -> List[int]:
