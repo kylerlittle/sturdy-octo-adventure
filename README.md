@@ -6,6 +6,11 @@ The main command to live serve for iterative development is
 hexo server
 ```
 
+To deploy (need to figure out CI/CD still), run
+```
+git push heroku main
+```
+
 ## lx theme
 
 ### Bundling assets into dist directory
