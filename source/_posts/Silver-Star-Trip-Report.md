@@ -8,14 +8,12 @@ tags:
 - trip report
 ---
 
-## Introduction
 This past weekend on Saturday June 8th, me and 11 others from the Spokane Mountaineers set out to summit [Silver Star Mountain](https://www.summitpost.org/silver-star-mountain-okanogan/150893). Two weeks ago, I was supposed to be in Canada attempting to summit Mount Athabasca as my official Spokane Mountaineers graduation climb. Unfortunately, I got quite sick leading up to the climb and had to miss out, so Silver Star became my graduation climb... and what a climb it was.
 
-Initially, we were planning to attempt Mount Baker via the Coleman Glacier route, but after researching the weather conditions and considering the limited experience of our group, we were quite concerned about potential avalanche conditions near the Roman headwall and also generally concerned about weak snow bridges. Instead, we pivoted to Silver Star Mountain because we thought the conditions would be much better. We opted for the Burgundy Col route based on some beta we had gotten from a friend.
-
+Initially, we were planning to attempt Mount Baker via the Coleman Glacier route, but after researching the weather conditions and considering the limited experience of our group, we were quite concerned about potential avalanche conditions near the Roman headwall and also generally concerned about weak snow bridges. Instead, we pivoted to Silver Star Mountain because we thought the conditions would be much better. We opted for the Burgundy Col route based on some beta we had gotten from a friend.'
+<!-- more -->
 We departed Spokane Friday a little bit after 4 PM, stopped for some burgers at the Teepee Drive-In in Grand Coulee, and ultimately arrived at [Lone Fir Campground](https://www.fs.usda.gov/recarea/okawen/recarea/?recid=59303) around 8:45 PM. We quickly set up camp and tried to get some sleep before an early alpine start. This was about to be my first glaciated peak, and though I had crossed a glacier before, I was definitely nervous but excited about the climb tomorrow. It took me about an hour to cool down enough to actually sleep, but I think I managed ~2 hours before waking up at 12:15 AM and then intermittently checked my phone until my alarm was supposed to go off. *Pro tip*: brew some coffee beforehand and put it in a thermos if you're doing a "car to car" trip. It was a magical experience to sip coffee while admiring the cosmos and just enjoying the silence that only camping can bring. At 1:35 AM, we left camp.
 
-## The Climb
 We arrived at the pullout along Highway 20 Saturday morning around 1:45 AM and had a brief sync to discuss turn-around time and snap an obligatory group selfie. Conditions were on the warmer side already, around 50&deg;F. Typically, I like to be a bit colder at the start, but you don't get to tell Mother Nature what to do.
 
 We began our descent to the Early Winters Creek, which involved some pretty low-key scrambling. The creek was definitely wider than I expected and at the very start of a long day, I had to summon my inner gymnist to make sure I wasn't going to fall in. There are some well placed logs to cross, but be warned that it's not as easy as it looks. While 11 of our 12 group members crossed without issue, one slipped and got their boots wet.

@@ -18,7 +18,7 @@ As {% katex %} 1=1^4 {% endkatex %} is not a sum, it is not included.
 The sum of these numbers is {% katex %} 1634 + 8208 + 9474 = 19316 {% endkatex %}.
 
 Find the sum of all the numbers that can be written as the sum of fifth powers of their digits.
-
+<!-- more -->
 ## Solution
 
 The crux of this problem is noticing the fact that if you have a sum of digits, take for example
