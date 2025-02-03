@@ -112,24 +112,23 @@ ssh-copy-id -p 12345 -i ~/.ssh/id_ed25519.pub piusername@10.0.0.2
 {% endcodeblock %}
 
 ### 6. Restrict SSH Auth to Key Pair Authentication
-Lastly, after SSHing into your Pi, modify the SSH configuration again and restart the service.
+Lastly, after SSHing into your Pi, modify the SSH configuration again to disable other formes of authentication and explicitly enable Key Pair authentication. Then, restart the service.
 
 {% codeblock lang:bash line_number:false %}
 sudo nano /etc/ssh/sshd_config
+{% endcodeblock %}
 
-# Disable other forms of authentication
+Then change the following lines of text:
+{% codeblock line_number:false %}
 PasswordAuthentication no
 ChallengeResponseAuthentication no
 KbdInteractiveAuthentication no
 UsePAM no
-
-# Disable root login for extra security
 PermitRootLogin no
-
-# Explicitly enable public key authentication
 PubkeyAuthentication yes
-
-# I saved and exited, then restarted ssh using the command below
+{% endcodeblock %}
+Save, and exit.
+{% codeblock lang:bash line_number:false %}
 service ssh restart
 {% endcodeblock %}
 
